@@ -3,6 +3,7 @@ from PyQt6.QtGui import QIcon
 from PyQt6.QtWidgets import QWidget, QSlider, QHBoxLayout, QTextBrowser, QGridLayout, QLabel, QLineEdit, QTextBrowser
 from PyQt6.QtCore import pyqtSlot, Qt, QSize
 
+# Hey Git Link: https://github.com/chey00/calc/
 
 class CentralWidget(QWidget):
     def __init__(self, parent=None):
